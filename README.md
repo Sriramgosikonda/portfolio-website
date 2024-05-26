@@ -33,16 +33,7 @@ This portfolio website serves as a personal space to highlight my professional j
   - HTML5
   - CSS3
   - JavaScript
-  - [Framework/Library, if any, e.g., React.js, Vue.js]
-
-- **Backend:**
-  - [Backend technology, if applicable, e.g., Node.js, Python (Flask/Django)]
-
-- **Styling:**
-  - [CSS Framework, if any, e.g., Bootstrap, Tailwind CSS]
-
-- **Hosting:**
-  - [Hosting platform, e.g., GitHub Pages, Netlify, Vercel]
+  
 
 ## Installation
 
